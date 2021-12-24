@@ -8,3 +8,7 @@ The file consists of multiple requests.
 ## Repo-details
 
 Cloning, Commit and push
+
+## Local Development Changes
+
+Open the idx and inx files in the browser to view the changes.
